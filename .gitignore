@@ -1,0 +1,11 @@
+/target*
+.classpath
+.settings
+.project
+stacktrace.log
+plugin.xml
+grails-github-*.zip
+grails-github-*.zip.*
+github-*-plugin.xml
+github-*.pom
+.DS_Store
